@@ -5,7 +5,6 @@
 This project involves building a Convolutional Neural Network (CNN) to recognize and classify traffic signs using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The goal is to accurately identify traffic signs from images to aid in autonomous driving and traffic management systems.
 
 ## Dataset
-- **Source:** [Kaggle](https://www.kaggle.com/code/shivank856/gtsrb-cnn-98-test-accuracy/data)
 - **German Traffic Website:** [GTSRB](https://benchmark.ini.rub.de/gtsrb_news.html)
 - The dataset contains images of traffic signs belonging to 43 different classes.
 
