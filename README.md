@@ -100,10 +100,6 @@ sns.set()
 ## Acknowledgements
 - The German Traffic Sign Recognition Benchmark (GTSRB) for the dataset.
 - [Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) for the LeNet architecture.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to tweak any sections to better fit your project details and personal preferences.
